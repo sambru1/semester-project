@@ -1,3 +1,16 @@
 h1 {
     font-size:4rem;
+    color: rgb(81, 106, 189);
+}
+h2{
+    color: rgb(35, 133, 100);
+}
+html{
+    margin: 3rem;
+}
+p{
+    margin-right: 50%;
+}
+img{
+    width: 50%;
 }
