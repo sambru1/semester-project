@@ -1,0 +1,35 @@
+h1 {
+    font-size: 4rem;
+    color: rgb(81, 106, 189);
+}
+h2{
+    font-size: 2rem;
+    color: rgb(35, 133, 100);
+    margin: 0 0 .5rem 0;
+}
+html{
+    margin: 3rem;
+}
+p{
+    margin: 0 50% 2rem 0;
+}
+img{
+    width: 500px;
+}
+ul{
+    margin-bottom: 3rem;
+}
+
+.p-ul{
+    margin: 0 50% 0 0;
+}
+
+.font1{
+    font-family:'Poppins', sans-serif;
+}
+.font2{
+    font-family: 'Roboto', sans-serif;
+}
+.pad{
+    padding-top: 2rem
+}
